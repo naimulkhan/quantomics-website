@@ -14,6 +14,22 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+# ── COMING SOON MODE ──────────────────────────────────────────────────────────
+# To go live: delete the two [[redirects]] blocks below (keep the /admin/ one).
+# ──────────────────────────────────────────────────────────────────────────────
+
+# Allow CMS access even while site is under embargo
+[[redirects]]
+  from = "/admin/*"
+  to   = "/admin/:splat"
+  status = 200
+
+# Rewrite everything else to the coming-soon splash page
+[[redirects]]
+  from = "/*"
+  to   = "/coming-soon.html"
+  status = 200
+
 # Redirect for Decap CMS OAuth via Netlify Identity
 [[redirects]]
   from = "/admin/"
