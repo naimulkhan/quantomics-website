@@ -19,9 +19,6 @@ backend:
     uploadMedia: 'content: upload media "{{path}}"'
     deleteMedia: 'content: delete media "{{path}}"'
 
-# Enable local development with `npx decap-server`
-local_backend: true
-
 # Where uploaded media is stored
 media_folder: 'assets/media/uploads'
 public_folder: '/media/uploads'
