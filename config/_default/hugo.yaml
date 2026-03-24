@@ -87,6 +87,16 @@ taxonomies:
   author: authors
 
 ############################
+## SECURITY
+############################
+security:
+  funcs:
+    getenv:
+      - '^HUGO_'
+      - '^CI$'
+      - '^WC_POST_CSS$'
+
+############################
 ## MARKUP
 ############################
 markup:
