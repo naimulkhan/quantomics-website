@@ -26,9 +26,10 @@
 
 # Rewrite everything else to the coming-soon splash page
 [[redirects]]
-  from = "/*"
-  to   = "/coming-soon.html"
+  from  = "/*"
+  to    = "/coming-soon.html"
   status = 200
+  force = true
 
 # Redirect for Decap CMS OAuth via Netlify Identity
 [[redirects]]
