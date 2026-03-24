@@ -1,0 +1,37 @@
+// ============================================================
+// QuantOmics custom styles — light & dark mode safe
+// ============================================================
+
+// ----- Key-statistics strip --------------------------------
+.qo-stats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.qo-stat {
+  min-width: 140px;
+}
+
+// In light mode use the brand blue; in dark mode use a bright
+// accessible cyan so it pops against a dark background.
+.qo-stat-num {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #1565c0;           // light-mode brand blue
+
+  [data-theme="dark"] &,
+  .dark & {
+    color: #64b5f6;         // lighter blue — legible on dark bg
+  }
+}
+
+// Auto-adapt when the OS prefers dark and no explicit toggle set
+@media (prefers-color-scheme: dark) {
+  body:not([data-theme="light"]) .qo-stat-num {
+    color: #64b5f6;
+  }
+}

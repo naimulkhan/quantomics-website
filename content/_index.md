@@ -50,8 +50,6 @@ sections:
         Our driving philosophy: a QuantOmics graduate can speak the language of hardware engineers, molecular biologists, and AI developers simultaneously — making them invaluable as integrators and leaders in Canada's emerging quantum-biomedical economy.
     design:
       columns: '1'
-      background:
-        color: white
 
   ##############################################
   ## THREE RESEARCH STREAMS
@@ -93,11 +91,11 @@ sections:
     content:
       title: ''
       text: |-
-        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:2rem;padding:2rem 0;text-align:center;">
-          <div><div style="font-size:3rem;font-weight:700;color:#1565C0;">93</div><div>Trainees over 6 years<br><small>(UG · MSc · PhD · PDF)</small></div></div>
-          <div><div style="font-size:3rem;font-weight:700;color:#1565C0;">6</div><div>Partner universities<br><small>across Canada</small></div></div>
-          <div><div style="font-size:3rem;font-weight:700;color:#1565C0;">11</div><div>Co-applicants including<br><small>5 Canada Research Chairs</small></div></div>
-          <div><div style="font-size:3rem;font-weight:700;color:#1565C0;">8</div><div>Industry &amp; clinical<br><small>partner organizations</small></div></div>
+        <div class="qo-stats">
+          <div class="qo-stat"><div class="qo-stat-num">93</div><div>Trainees over 6 years<br><small>(UG · MSc · PhD · PDF)</small></div></div>
+          <div class="qo-stat"><div class="qo-stat-num">6</div><div>Partner universities<br><small>across Canada</small></div></div>
+          <div class="qo-stat"><div class="qo-stat-num">11</div><div>Co-applicants including<br><small>5 Canada Research Chairs</small></div></div>
+          <div class="qo-stat"><div class="qo-stat-num">8</div><div>Industry &amp; clinical<br><small>partner organizations</small></div></div>
         </div>
     design:
       columns: '1'
@@ -195,8 +193,6 @@ sections:
         [View All Partners →](partners/)
     design:
       columns: '1'
-      background:
-        color: '#f5f5f5'
 
   ##############################################
   ## CONTACT
