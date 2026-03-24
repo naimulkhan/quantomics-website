@@ -1,0 +1,378 @@
+##############################################
+## Decap CMS Configuration for QuantOmics
+##
+## Backend: Netlify Identity + Git Gateway
+## After deploying to Netlify:
+##   1. Go to Netlify Dashboard → Identity → Enable
+##   2. Go to Identity → Services → Enable Git Gateway
+##   3. Go to Identity → Invite users (add coordinator)
+##   4. Coordinator visits yoursite.netlify.app/admin/
+##############################################
+
+backend:
+  name: git-gateway
+  branch: main
+  commit_messages:
+    create: 'content: add {{collection}} "{{slug}}"'
+    update: 'content: update {{collection}} "{{slug}}"'
+    delete: 'content: delete {{collection}} "{{slug}}"'
+    uploadMedia: 'content: upload media "{{path}}"'
+    deleteMedia: 'content: delete media "{{path}}"'
+
+# Enable local development with `npx decap-server`
+local_backend: true
+
+# Where uploaded media is stored
+media_folder: 'assets/media/uploads'
+public_folder: '/media/uploads'
+
+# Site URL for previews
+site_url: https://quantomics.netlify.app
+
+# Display site name in the CMS
+display_url: https://quantomics.netlify.app
+
+##############################################
+## COLLECTIONS
+##############################################
+
+collections:
+
+  ##############################################
+  ## NEWS POSTS
+  ##############################################
+  - name: posts
+    label: "News & Blog Posts"
+    label_singular: "Post"
+    folder: content/post
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'post/{{slug}}'
+    fields:
+      - label: "Title"
+        name: title
+        widget: string
+      - label: "Subtitle"
+        name: subtitle
+        widget: string
+        required: false
+      - label: "Date"
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DDTHH:mm:ssZ"
+        default: ""
+      - label: "Summary"
+        name: summary
+        widget: text
+        required: false
+        hint: "Short summary shown in news cards. If empty, first paragraph is used."
+      - label: "Tags"
+        name: tags
+        widget: list
+        required: false
+        hint: "e.g. Announcement, Trainees, Research, Events"
+      - label: "Categories"
+        name: categories
+        widget: list
+        required: false
+      - label: "Featured Post"
+        name: featured
+        widget: boolean
+        default: false
+        hint: "Featured posts appear prominently on the homepage."
+      - label: "Featured Image"
+        name: image
+        widget: object
+        required: false
+        fields:
+          - label: "Image File"
+            name: filename
+            widget: image
+            required: false
+          - label: "Caption"
+            name: caption
+            widget: string
+            required: false
+          - label: "Focal Point"
+            name: focal_point
+            widget: select
+            options: [Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight]
+            default: Smart
+            required: false
+          - label: "Preview Only (hide from post)"
+            name: preview_only
+            widget: boolean
+            default: false
+            required: false
+      - label: "Authors"
+        name: authors
+        widget: list
+        required: false
+        hint: "Use author folder names, e.g. naimul-khan"
+      - label: "Body"
+        name: body
+        widget: markdown
+
+  ##############################################
+  ## EVENTS
+  ##############################################
+  - name: events
+    label: "Events"
+    label_singular: "Event"
+    folder: content/event
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+    create: true
+    slug: '{{slug}}'
+    preview_path: 'event/{{slug}}'
+    fields:
+      - label: "Title"
+        name: title
+        widget: string
+      - label: "Abstract / Description"
+        name: abstract
+        widget: text
+        required: false
+      - label: "Start Date & Time"
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DDTHH:mm:ssZ"
+      - label: "End Date & Time"
+        name: date_end
+        widget: datetime
+        format: "YYYY-MM-DDTHH:mm:ssZ"
+        required: false
+      - label: "All Day Event"
+        name: all_day
+        widget: boolean
+        default: false
+      - label: "Location"
+        name: location
+        widget: string
+        required: false
+        hint: "e.g. Toronto Metropolitan University, Toronto, ON"
+      - label: "Event Type"
+        name: event_type
+        widget: select
+        options: [Symposium, Workshop, Seminar, Conference, Hackathon, Webinar, Other]
+        required: false
+      - label: "Tags"
+        name: tags
+        widget: list
+        required: false
+      - label: "Featured Image"
+        name: image
+        widget: object
+        required: false
+        fields:
+          - label: "Image File"
+            name: filename
+            widget: image
+            required: false
+          - label: "Caption"
+            name: caption
+            widget: string
+            required: false
+          - label: "Focal Point"
+            name: focal_point
+            widget: select
+            options: [Smart, Center, Top, Bottom, Left, Right]
+            default: Smart
+            required: false
+      - label: "Registration URL"
+        name: url_register
+        widget: string
+        required: false
+      - label: "Slides URL"
+        name: url_slides
+        widget: string
+        required: false
+      - label: "Recording URL"
+        name: url_video
+        widget: string
+        required: false
+      - label: "Body"
+        name: body
+        widget: markdown
+        required: false
+
+  ##############################################
+  ## TEAM MEMBERS (Authors)
+  ##############################################
+  - name: authors
+    label: "Team Members"
+    label_singular: "Team Member"
+    folder: content/authors
+    path: '{{slug}}/_index'
+    media_folder: ''
+    public_folder: ''
+    create: true
+    slug: '{{slug}}'
+    identifier_field: title
+    fields:
+      - label: "Full Name"
+        name: title
+        widget: string
+      - label: "Role / Position"
+        name: role
+        widget: string
+        hint: "e.g. Principal Investigator, Associate Professor"
+      - label: "Photo Filename"
+        name: avatar_filename
+        widget: string
+        default: avatar.jpg
+        hint: "Upload photo to the author's folder and enter the filename (e.g. avatar.jpg)"
+      - label: "Short Bio"
+        name: bio
+        widget: text
+        hint: "One or two sentences shown in team cards."
+      - label: "Organizations"
+        name: organizations
+        widget: list
+        fields:
+          - label: "Organization Name"
+            name: name
+            widget: string
+          - label: "URL"
+            name: url
+            widget: string
+            required: false
+      - label: "User Group"
+        name: user_groups
+        widget: list
+        hint: "e.g. Principal Investigator, Co-Applicants, Program Committee, Trainees"
+      - label: "Research Interests"
+        name: interests
+        widget: list
+        required: false
+      - label: "Social Links"
+        name: social
+        widget: list
+        required: false
+        fields:
+          - label: "Icon"
+            name: icon
+            widget: string
+            hint: "FontAwesome icon name, e.g. envelope, globe, linkedin, twitter"
+          - label: "Icon Pack"
+            name: icon_pack
+            widget: select
+            options: [fas, fab, far, ai]
+          - label: "Link URL"
+            name: link
+            widget: string
+      - label: "Is Site Superuser"
+        name: superuser
+        widget: boolean
+        default: false
+        hint: "Only enable for the primary site admin account."
+      - label: "Full Bio / Profile Body"
+        name: body
+        widget: markdown
+        hint: "Full biography shown on the person's profile page."
+
+  ##############################################
+  ## RESEARCH STREAMS (Projects)
+  ##############################################
+  - name: projects
+    label: "Research Streams"
+    label_singular: "Research Stream"
+    folder: content/project
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - label: "Title"
+        name: title
+        widget: string
+      - label: "Summary"
+        name: summary
+        widget: text
+      - label: "Tags"
+        name: tags
+        widget: list
+        required: false
+      - label: "Date"
+        name: date
+        widget: datetime
+        format: "YYYY-MM-DDTHH:mm:ssZ"
+        required: false
+      - label: "Featured Image"
+        name: image
+        widget: object
+        required: false
+        fields:
+          - label: "Image"
+            name: filename
+            widget: image
+            required: false
+          - label: "Caption"
+            name: caption
+            widget: string
+            required: false
+          - label: "Focal Point"
+            name: focal_point
+            widget: select
+            options: [Smart, Center, Top, Bottom, Left, Right]
+            default: Smart
+            required: false
+      - label: "Body"
+        name: body
+        widget: markdown
+
+  ##############################################
+  ## SITE PAGES (About, Training, Apply, Partners)
+  ##############################################
+  - name: pages
+    label: "Pages"
+    label_singular: "Page"
+    files:
+      - label: "About the Program"
+        name: about
+        file: content/about/_index.md
+        fields:
+          - label: "Title"
+            name: title
+            widget: string
+          - label: "Body"
+            name: body
+            widget: markdown
+
+      - label: "Training Program"
+        name: training
+        file: content/training/_index.md
+        fields:
+          - label: "Title"
+            name: title
+            widget: string
+          - label: "Body"
+            name: body
+            widget: markdown
+
+      - label: "How to Apply"
+        name: apply
+        file: content/apply/_index.md
+        fields:
+          - label: "Title"
+            name: title
+            widget: string
+          - label: "Body"
+            name: body
+            widget: markdown
+
+      - label: "Partners"
+        name: partners
+        file: content/partners/_index.md
+        fields:
+          - label: "Title"
+            name: title
+            widget: string
+          - label: "Body"
+            name: body
+            widget: markdown

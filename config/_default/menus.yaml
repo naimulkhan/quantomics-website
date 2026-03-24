@@ -1,0 +1,25 @@
+main:
+  - name: About
+    url: about/
+    weight: 10
+  - name: Research
+    url: project/
+    weight: 20
+  - name: Training
+    url: training/
+    weight: 30
+  - name: Team
+    url: people/
+    weight: 40
+  - name: News & Events
+    url: post/
+    weight: 50
+  - name: Partners
+    url: partners/
+    weight: 60
+  - name: Apply
+    url: apply/
+    weight: 70
+  - name: Contact
+    url: '#contact'
+    weight: 80

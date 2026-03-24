@@ -1,0 +1,23 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+
+# Hugo module cache
+/hugo_stats.json
+
+# Go module cache
+/vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Netlify
+.netlify/

@@ -1,0 +1,119 @@
+title: QuantOmics
+baseURL: 'https://quantomics.netlify.app/'
+copyright: '© {year} QuantOmics NSERC CREATE Program'
+
+############################
+## LANGUAGE
+############################
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+
+############################
+## MODULES
+############################
+module:
+  hugoVersion:
+    extended: true
+    min: '0.119.0'
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-core
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-seo
+
+############################
+## CONTENT
+############################
+enableEmoji: true
+enableRobotsTXT: true
+enableGitInfo: false
+
+summaryLength: 30
+
+pagination:
+  pagerSize: 10
+
+############################
+## OUTPUTS
+############################
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    - WebAppManifest
+    - headers
+    - redirects
+  section:
+    - HTML
+    - RSS
+
+############################
+## MEDIA TYPES
+############################
+mediaTypes:
+  'application/manifest+json':
+    suffixes:
+      - webmanifest
+  'application/toml':
+    suffixes:
+      - toml
+
+############################
+## OUTPUT FORMATS
+############################
+outputFormats:
+  WebAppManifest:
+    mediaType: 'application/manifest+json'
+    rel: manifest
+  headers:
+    mediaType: 'application/toml'
+    baseName: _headers
+    isPlainText: true
+    notAlternative: true
+  redirects:
+    mediaType: 'application/toml'
+    baseName: _redirects
+    isPlainText: true
+    notAlternative: true
+
+############################
+## TAXONOMIES
+############################
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
+
+############################
+## MARKUP
+############################
+markup:
+  _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    lineNos: false
+
+############################
+## IMAGE PROCESSING
+############################
+imaging:
+  resampleFilter: lanczos
+  quality: 75
+  anchor: smart
+
+############################
+## RELATED
+############################
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70

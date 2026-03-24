@@ -1,0 +1,121 @@
+############################
+## SITE PARAMETERS
+############################
+
+# Appearance
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: native
+  font_size: L
+
+# SEO
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: 'QuantOmics NSERC CREATE'
+    description: 'NSERC CREATE in AI-Driven Quantum Sensing and Genomics for Precision Therapeutics. Training the next generation of interdisciplinary researchers at the intersection of quantum biosensing, genomics, and AI.'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+# Site footer
+footer:
+  notice: 'Published with [Hugo Blox](https://hugoblox.com) — the free, open source website builder that empowers creators. Funded by [NSERC CREATE](https://www.nserc-crsng.gc.ca/Professors-Professeurs/Grants-Subs/CREATE-FONCER_eng.asp).'
+  copyright:
+    notice: '© {year} QuantOmics — Toronto Metropolitan University'
+    license:
+      enable: false
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
+
+# Site features
+features:
+  syntax_highlighter:
+    enable: false
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/quantomics/website'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: ''
+    api_key: ''
+    zoom: 15
+
+# Contact details (used in Contact widget)
+email: quantomics@torontomu.ca
+phone: '+1 416-979-5000'
+address:
+  street: 350 Victoria Street
+  city: Toronto
+  region: ON
+  postcode: 'M5B 2K3'
+  country: Canada
+  country_code: CA
+coordinates:
+  latitude: '43.6578'
+  longitude: '-79.3789'
+directions: 'Kerr Hall, Toronto Metropolitan University'
+office_hours:
+  - 'Mon–Fri 09:00–17:00 ET'
+appointment_url: ''
+contact_links:
+  - icon: envelope
+    icon_pack: fas
+    name: Email Us
+    link: 'mailto:quantomics@torontomu.ca'
+
+# Social media links (shown in footer)
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:quantomics@torontomu.ca'
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/company/quantomics-create'
+  - icon: twitter
+    icon_pack: fab
+    link: 'https://twitter.com/QuantOmicsCREATE'
+    label: Follow us on X (Twitter)
+  - icon: youtube
+    icon_pack: fab
+    link: 'https://www.youtube.com/@QuantOmicsCREATE'
