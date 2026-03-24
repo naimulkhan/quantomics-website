@@ -89,30 +89,18 @@ sections:
   ##############################################
   ## KEY STATISTICS
   ##############################################
-  - block: stats
+  - block: markdown
     content:
-      items:
-        - statistic: "93"
-          description: |
-            Trainees over 6 years
-            (UG · MSc · PhD · PDF)
-        - statistic: "6"
-          description: |
-            Partner universities
-            across Canada
-        - statistic: "11"
-          description: |
-            Co-applicants including
-            5 Canada Research Chairs
-        - statistic: "8"
-          description: |
-            Industry & clinical
-            partner organizations
+      title: ''
+      text: |-
+        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:2rem;padding:2rem 0;text-align:center;">
+          <div><div style="font-size:3rem;font-weight:700;color:#1565C0;">93</div><div>Trainees over 6 years<br><small>(UG · MSc · PhD · PDF)</small></div></div>
+          <div><div style="font-size:3rem;font-weight:700;color:#1565C0;">6</div><div>Partner universities<br><small>across Canada</small></div></div>
+          <div><div style="font-size:3rem;font-weight:700;color:#1565C0;">11</div><div>Co-applicants including<br><small>5 Canada Research Chairs</small></div></div>
+          <div><div style="font-size:3rem;font-weight:700;color:#1565C0;">8</div><div>Industry &amp; clinical<br><small>partner organizations</small></div></div>
+        </div>
     design:
-      background:
-        gradient_start: '#004ba0'
-        gradient_end: '#1976d2'
-        text_color_light: true
+      columns: '1'
 
   ##############################################
   ## TRAINING HIGHLIGHTS
