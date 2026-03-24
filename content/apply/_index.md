@@ -23,6 +23,8 @@ QuantOmics is designed to be **inclusive and accessible** to highly qualified pe
 
 **No prior knowledge** across all three domains (quantum sensing, genomics, AI) is required. The program is specifically designed to build cross-disciplinary literacy from the ground up.
 
+> **Already working with a QuantOmics faculty member?** Students and postdoctoral fellows who are currently supervised by — or beginning a position with — a [Co-Applicant or Collaborator](../people/) are eligible and encouraged to apply to the program, provided their research aligns with one or more of the three QuantOmics research streams. Contact your supervisor or the [program coordinator](#contact) to initiate a nomination.
+
 ---
 
 ## Training Levels

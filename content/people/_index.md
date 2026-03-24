@@ -32,4 +32,28 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+
+  - block: markdown
+    content:
+      title: Collaborators
+      text: |-
+        QuantOmics benefits from 10 individual collaborators who bring niche sectoral and disciplinary
+        expertise across the program's three research streams.
+
+        | Name | Position & Affiliation | Research Streams |
+        |------|------------------------|-----------------|
+        | **Benoit Gosselin** | Professor, Electrical Engineering, Université Laval | Streams 1 & 2 |
+        | **Deborah Anderson** | Director of Research, Saskatchewan Cancer Agency | Streams 1 & 2 |
+        | **Ioannis Ragoussis** | Prof. & Head of Genome Sciences, McGill Genome Centre | Streams 2 & 3 |
+        | **Jesse Greener** | Professor, Department of Chemistry, Université Laval | Streams 1 & 2 |
+        | **Lingling Jin** | Associate Professor, Computer Science, University of Saskatchewan | Stream 3 |
+        | **Ryan Yuen** | Senior Scientist, Genetics & Genome Biology, SickKids | Streams 2 & 3 |
+        | **Serge Ecoffey** | Professor & C2MI Research Chair in Microfabrication, Université de Sherbrooke | Stream 1 |
+        | **Thomas Szkopek** | Professor, Electrical & Computer Engineering, McGill University | Stream 1 |
+        | **Trevor Pugh** | CRC Tier-2 in Translational Genomics, Ontario Institute for Cancer Research | Streams 2 & 3 |
+        | **Wei Tu** | Senior Biostatistician, Canadian Cancer Trials Group; Asst. Professor, Queen's University | Stream 3 |
+
+        *Stream 1: Quantum Probe Design & Fabrication · Stream 2: Genomic Signal Integration · Stream 3: AI-Powered Therapeutic Design*
+    design:
+      columns: '1'
 ---
