@@ -198,6 +198,100 @@ collections:
         required: false
 
   ##############################################
+  ## TRAINEES
+  ## (PhD, MSc, Undergraduate, Postdoctoral)
+  ## — primary collection for coordinator updates
+  ##############################################
+  - name: trainees
+    label: "Trainees"
+    label_singular: "Trainee"
+    folder: content/authors
+    path: '{{slug}}/_index'
+    media_folder: ''
+    public_folder: ''
+    create: true
+    slug: '{{fields.slug}}'
+    identifier_field: title
+    summary: "{{title}} — {{fields.role}}"
+    fields:
+      - label: "Full Name"
+        name: title
+        widget: string
+        hint: "e.g. Jane Smith"
+      - label: "URL Slug"
+        name: slug
+        widget: string
+        hint: "Lowercase, hyphens only — e.g. jane-smith. Used in the URL."
+      - label: "Program Level"
+        name: user_groups
+        widget: select
+        multiple: true
+        options:
+          - "Postdoctoral Fellows"
+          - "PhD Candidates"
+          - "Master's Students"
+          - "Undergraduate Researchers"
+        hint: "Select the trainee's program level."
+      - label: "Research Area"
+        name: role
+        widget: string
+        required: false
+        hint: "e.g. AI-driven genomic analysis for precision oncology"
+      - label: "University"
+        name: organizations
+        widget: list
+        required: false
+        fields:
+          - label: "University Name"
+            name: name
+            widget: string
+          - label: "URL"
+            name: url
+            widget: string
+            required: false
+      - label: "Photo"
+        name: avatar_filename
+        widget: image
+        required: false
+        media_dir: ''
+        hint: "Upload a headshot. Recommended: square, at least 400×400 px."
+      - label: "Short Bio"
+        name: bio
+        widget: text
+        required: false
+        hint: "1–2 sentences shown on the trainee card."
+      - label: "Supervisor(s)"
+        name: interests
+        widget: list
+        required: false
+        hint: "List supervisor names here so they appear under the trainee's card — e.g. Dr. Naimul Khan"
+      - label: "Social / Contact Links"
+        name: social
+        widget: list
+        required: false
+        fields:
+          - label: "Icon"
+            name: icon
+            widget: string
+            hint: "FontAwesome icon — e.g. envelope, linkedin, twitter, globe"
+          - label: "Icon Pack"
+            name: icon_pack
+            widget: select
+            options: [fas, fab, far]
+            default: fas
+          - label: "Link"
+            name: link
+            widget: string
+      - label: "superuser"
+        name: superuser
+        widget: hidden
+        default: false
+      - label: "highlight_name"
+        name: highlight_name
+        widget: hidden
+        default: false
+
+  ##############################################
   ## TEAM MEMBERS (Authors)
   ##############################################
   - name: authors

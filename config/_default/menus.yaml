@@ -11,6 +11,9 @@ main:
   - name: Team
     url: people/
     weight: 40
+  - name: Trainees
+    url: trainees/
+    weight: 45
   - name: News & Events
     url: post/
     weight: 50

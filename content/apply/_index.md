@@ -76,14 +76,22 @@ QuantOmics is deeply committed to recruiting a diverse cohort. We actively work 
 
 ## Funding & Support
 
-QuantOmics trainees receive a **QuantOmics supplement** on top of their standard institutional stipend or scholarship. This supplement covers:
+QuantOmics trainees receive a **QuantOmics CREATE supplement** from NSERC on top of their standard institutional stipend or supervisor funding. Annual supplement amounts per trainee are:
 
-- Program-specific course costs
-- Travel to symposiums and IEEE workshops
-- Mobility placement costs (transportation, accommodation)
-- Attendance at annual professional development events
+| Level | CREATE Supplement | Mobility Top-Up | Duration |
+|-------|-------------------|-----------------|----------|
+| **Undergraduate** | $3,000 / summer | — | 1 summer term |
+| **Master's (MSc)** | $7,000 / year | +$1,000 | Up to 2 years |
+| **Doctoral (PhD)** | $9,000 / year | +$2,000 | Up to 4 years |
+| **Postdoctoral Fellow** | $35,000 / year | — | Up to 2 years (renewable) |
 
-Specific supplement amounts are determined annually by the Steering Committee based on NSERC funding and institutional contributions. Details are communicated to enrolled trainees.
+> **Note:** The CREATE supplement is in addition to your institutional stipend and supervisor funding package. Each participating university provides further cash contributions to top up graduate trainee stipends. Total annual compensation for graduate trainees varies by institution and supervisor — discuss details with your prospective supervisor.
+
+The supplement also covers:
+
+- Travel to QuantOmics symposiums (Years 3 and 6) and co-located IEEE workshops (Years 2, 4, 5)
+- Mobility placement costs (the top-up above covers relocation for internships and exchanges)
+- Program-specific course costs and professional development events
 
 ---
 
