@@ -19,17 +19,17 @@
 # ──────────────────────────────────────────────────────────────────────────────
 
 # Allow CMS access even while site is under embargo
-[[redirects]]
-  from = "/admin/*"
-  to   = "/admin/:splat"
-  status = 200
+#[[redirects]]
+#  from = "/admin/*"
+#  to   = "/admin/:splat"
+#  status = 200
 
 # Rewrite everything else to the coming-soon splash page
-[[redirects]]
-  from  = "/*"
-  to    = "/coming-soon.html"
-  status = 200
-  force = true
+#[[redirects]]
+# from  = "/*"
+# to    = "/coming-soon.html"
+# status = 200
+# force = true
 
 # Redirect for Decap CMS OAuth via Netlify Identity
 [[redirects]]
