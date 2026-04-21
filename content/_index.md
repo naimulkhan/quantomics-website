@@ -19,10 +19,10 @@ sections:
 
         Training Canada's next generation of interdisciplinary leaders at the convergence of **quantum biosensing**, **computational genomics**, and **artificial intelligence** — from sensor to clinic.
       cta:
-        label: Apply Now
-        url: apply/
+        label: Stay Connected
+        url: interest/
         icon_pack: fas
-        icon: graduation-cap
+        icon: envelope
       cta_alt:
         label: Explore the Program
         url: about/
