@@ -63,6 +63,6 @@ Job ads use unbiased language and are circulated through targeted networks inclu
 
 ## Questions?
 
-Contact the QuantOmics Program Coordinator at [quantomics@torontomu.ca](mailto:quantomics@torontomu.ca) or visit the [Apply page](../../apply/) for full details.
+Contact the QuantOmics Program Coordinator at [n77khan@torontomu.ca](mailto:n77khan@torontomu.ca) or visit the [Apply page](../../apply/) for full details.
 
 We look forward to welcoming our founding cohort of QuantOmics trainees.

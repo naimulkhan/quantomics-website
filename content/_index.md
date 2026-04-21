@@ -205,7 +205,7 @@ sections:
       text: |-
         Have questions about the program, applications, or partnership opportunities?
         We'd love to hear from you.
-      email: quantomics@torontomu.ca
+      email: n77khan@torontomu.ca
       phone: '+1 416-979-5000'
       address:
         street: 350 Victoria Street

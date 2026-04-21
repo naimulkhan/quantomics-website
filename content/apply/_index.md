@@ -135,7 +135,7 @@ Major QuantOmics symposiums are held in Years 3 and 6 of the program. Co-located
 
 For questions about the program, admissions, or partnership opportunities:
 
-📧 **Email:** [quantomics@torontomu.ca](mailto:quantomics@torontomu.ca)
+📧 **Email:** [n77khan@torontomu.ca](mailto:n77khan@torontomu.ca)
 📍 **Address:** Department of Electrical, Computer, and Biomedical Engineering, Toronto Metropolitan University, 350 Victoria Street, Toronto, ON M5B 2K3
 
 We also welcome inquiries from prospective industry partners interested in hosting QuantOmics interns or providing research collaboration.

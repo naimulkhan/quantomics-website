@@ -54,4 +54,4 @@ Presenting at a top-tier international IEEE conference provides QuantOmics train
 
 ---
 
-*Details including the exact IEEE conference venue and submission deadline will be updated as the event approaches. Contact [quantomics@torontomu.ca](mailto:quantomics@torontomu.ca) for more information.*
+*Details including the exact IEEE conference venue and submission deadline will be updated as the event approaches. Contact [n77khan@torontomu.ca](mailto:n77khan@torontomu.ca) for more information.*

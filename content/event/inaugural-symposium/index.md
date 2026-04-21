@@ -62,7 +62,7 @@ External attendees — including researchers from partner and non-partner instit
 
 Registration and abstract submission details will be circulated to all QuantOmics trainees and supervisors via the program coordinator.
 
-For external registration inquiries, contact [quantomics@torontomu.ca](mailto:quantomics@torontomu.ca).
+For external registration inquiries, contact [n77khan@torontomu.ca](mailto:n77khan@torontomu.ca).
 
 ---
 

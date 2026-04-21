@@ -82,7 +82,7 @@ features:
     zoom: 15
 
 # Contact details (used in Contact widget)
-email: quantomics@torontomu.ca
+email: n77khan@torontomu.ca
 phone: '+1 416-979-5000'
 address:
   street: 350 Victoria Street
@@ -102,13 +102,13 @@ contact_links:
   - icon: envelope
     icon_pack: fas
     name: Email Us
-    link: 'mailto:quantomics@torontomu.ca'
+    link: 'mailto:n77khan@torontomu.ca'
 
 # Social media links (shown in footer)
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:quantomics@torontomu.ca'
+    link: 'mailto:n77khan@torontomu.ca'
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/company/quantomics-create'

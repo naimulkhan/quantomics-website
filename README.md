@@ -171,4 +171,4 @@ To use the CMS locally, run `npx decap-server` in a separate terminal (requires 
 - **Hugo Blox docs:** https://docs.hugoblox.com/
 - **Decap CMS docs:** https://decapcms.org/docs/
 - **Netlify docs:** https://docs.netlify.com/
-- **Program contact:** quantomics@torontomu.ca
+- **Program contact:** n77khan@torontomu.ca

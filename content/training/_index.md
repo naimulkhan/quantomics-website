@@ -187,4 +187,4 @@ All MSc and PhD trainees complete a mandatory mobility placement:
 
 ---
 
-*For questions about specific courses or program requirements, contact [quantomics@torontomu.ca](mailto:quantomics@torontomu.ca)*
+*For questions about specific courses or program requirements, contact [n77khan@torontomu.ca](mailto:n77khan@torontomu.ca)*

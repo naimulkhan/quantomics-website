@@ -85,7 +85,7 @@ QuantOmics welcomes new partnerships with industry, clinical, government, and no
 - **Symposium Participation** — Participate in QuantOmics symposiums and job fairs as an employer and speaker
 - **In-Kind Contributions** — Provide access to specialized equipment, datasets, or research facilities
 
-To explore partnership opportunities, contact us at [quantomics@torontomu.ca](mailto:quantomics@torontomu.ca).
+To explore partnership opportunities, contact us at [n77khan@torontomu.ca](mailto:n77khan@torontomu.ca).
 
 ---
 
