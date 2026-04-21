@@ -23,6 +23,9 @@ main:
   - name: Apply
     url: apply/
     weight: 70
+  - name: Stay Connected
+    url: interest/
+    weight: 75
   - name: Contact
     url: '#contact'
     weight: 80
