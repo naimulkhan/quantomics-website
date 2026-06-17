@@ -61,9 +61,11 @@ Applications can be made through any of the seven partner institutions: **Toront
 
 Not ready to apply yet, or want to be notified when positions open? Fill out the form below and we will be in touch.
 
-<!-- PASTE GOOGLE FORM EMBED CODE BELOW THIS LINE -->
-
-<!-- END GOOGLE FORM EMBED -->
+<div style="text-align:center; margin: 2rem 0;">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeCEr7UZFLqhchVSbxm9dskrmt1486GOox6Vz5KWfntk2uSEA/viewform" target="_blank" rel="noopener" style="display:inline-block; background:#1565C0; color:#fff; padding:0.9rem 2.2rem; border-radius:4px; font-size:1.1rem; font-weight:600; text-decoration:none;">
+    Submit Your Application →
+  </a>
+</div>
 
 ---
 
