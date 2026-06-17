@@ -27,7 +27,7 @@ sections:
         label: Explore the Program
         url: about/
       cta_note:
-        label: 'A consortium of 6 universities · 11 co-applicants · 93 trainees'
+        label: 'A consortium of 7 universities · 12 co-applicants · 93 trainees'
     design:
       background:
         gradient_end: '#1565C0'
@@ -45,7 +45,7 @@ sections:
       text: |-
         The NSERC CREATE in **AI-Driven Quantum Sensing and Genomics for Precision Therapeutics (QuantOmics)** is Canada's first integrated training pipeline bridging quantum nanotechnology, genomic data science, and AI-driven medicine.
 
-        A consortium of **six research-intensive universities** — Toronto Metropolitan University, McGill, Queen's, Université Laval, University of Saskatchewan, and University of Toronto — together with a cross-sectoral network of **industry and clinical partners**, will train **93 highly qualified personnel** over six years to be fluent across all three domains.
+        A consortium of **seven research-intensive universities** — Toronto Metropolitan University, McGill, Queen's, Université Laval, University of Saskatchewan, University of Toronto, and University of Alberta — together with a cross-sectoral network of **industry and clinical partners**, will train **93 highly qualified personnel** over six years to be fluent across all three domains.
 
         Our driving philosophy: a QuantOmics graduate can speak the language of hardware engineers, molecular biologists, and AI developers simultaneously — making them invaluable as integrators and leaders in Canada's emerging quantum-biomedical economy.
     design:
@@ -93,8 +93,8 @@ sections:
       text: |-
         <div class="qo-stats">
           <div class="qo-stat"><div class="qo-stat-num">93</div><div>Trainees over 6 years<br><small>(UG · MSc · PhD · PDF)</small></div></div>
-          <div class="qo-stat"><div class="qo-stat-num">6</div><div>Partner universities<br><small>across Canada</small></div></div>
-          <div class="qo-stat"><div class="qo-stat-num">11</div><div>Co-applicants including<br><small>5 Canada Research Chairs</small></div></div>
+          <div class="qo-stat"><div class="qo-stat-num">7</div><div>Partner universities<br><small>across Canada</small></div></div>
+          <div class="qo-stat"><div class="qo-stat-num">12</div><div>Co-applicants including<br><small>5 Canada Research Chairs</small></div></div>
           <div class="qo-stat"><div class="qo-stat-num">8</div><div>Industry &amp; clinical<br><small>partner organizations</small></div></div>
         </div>
     design:
@@ -184,9 +184,9 @@ sections:
       title: Our University Consortium
       subtitle: ''
       text: |-
-        QuantOmics brings together world-class researchers from six Canadian universities:
+        QuantOmics brings together world-class researchers from seven Canadian universities:
 
-        **Toronto Metropolitan University** · **McGill University** · **Queen's University** · **Université Laval** · **University of Saskatchewan** · **University of Toronto**
+        **Toronto Metropolitan University** · **McGill University** · **Queen's University** · **Université Laval** · **University of Saskatchewan** · **University of Toronto** · **University of Alberta**
 
         Supported by a cross-sectoral network of industry and clinical partners including **C2MI**, **Epiloid Biotech**, **Terry Fox Research Institute**, **Ontario Genomics**, **Klick Health**, **Alimentiv**, **Novavax**, and others.
 

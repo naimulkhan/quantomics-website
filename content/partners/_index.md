@@ -11,15 +11,16 @@ comments: false
 
 ## University Consortium
 
-QuantOmics unites researchers from six of Canada's leading research-intensive universities, spanning all three of our research streams:
+QuantOmics unites researchers from seven of Canada's leading research-intensive universities, spanning all three of our research streams:
 
 | University | Role | Stream Leadership |
 |------------|------|------------------|
 | **Toronto Metropolitan University (TMU)** | Lead Institution | S3 co-lead (Khan), S1 co-lead (Valente), EDI lead (Impellizzeri) |
 | **McGill University** | Partner | S1 (Mahshid) — microfluidics and biosensors |
-| **Queen's University** | Partner | S3 co-lead (Simpson) — biomedical computing |
+| **Queen's University** | Partner | S2 (Panchenko) — computational biology & biophysics; S3 (Simpson, formerly) |
+| **University of Alberta** | Partner | S3 co-lead (Simpson) — biomedical computing, AI |
 | **Université Laval** | Partner | S2 co-lead (Corbeil) — medical genomics, MILA |
-| **University of Saskatchewan** | Partner | S1 & S2 (Rayan) — quantum dots, computational biology |
+| **University of Saskatchewan** | Partner | S1 & S2 (Steven Rayan) — quantum dots, computational biology |
 | **University of Toronto** | Partner | S2 co-lead (Trost) — molecular genetics, SickKids |
 
 ---

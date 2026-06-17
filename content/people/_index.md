@@ -7,7 +7,7 @@ sections:
     content:
       title: Our Team
       text: |-
-        QuantOmics brings together 11 co-applicants from six Canadian universities, including
+        QuantOmics brings together 12 co-applicants from seven Canadian universities, including
         3 Tier 1 Canada Research Chairs, 2 Tier 2 Canada Research Chairs, a Stanley Meek Chair
         in Advanced Nanotechnology, and a Jet Ice Research Chair in Sustainable Materials Chemistry.
     design:

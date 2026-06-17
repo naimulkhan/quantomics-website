@@ -1,6 +1,6 @@
 ---
 title: "Applications Now Open: Join the QuantOmics Inaugural Cohort"
-subtitle: "Train at the intersection of quantum biosensing, genomics, and AI — across six Canadian universities"
+subtitle: "Train at the intersection of quantum biosensing, genomics, and AI — across seven Canadian universities"
 date: 2025-08-15T09:00:00Z
 summary: "QuantOmics is now accepting applications for its inaugural cohort of Master's, PhD, and Postdoctoral trainees. Applications are rolling and processed through each partner university's graduate admissions system."
 featured: false
@@ -53,7 +53,7 @@ We welcome applicants from a wide range of disciplines with no prior cross-domai
 
 4. **Your supervisor nominates you** — Once admitted, your supervisor nominates you to the QuantOmics Steering Committee for formal enrollment.
 
-**Partner institutions:** Toronto Metropolitan University · McGill University · Queen's University · Université Laval · University of Saskatchewan · University of Toronto
+**Partner institutions:** Toronto Metropolitan University · McGill University · Queen's University · Université Laval · University of Saskatchewan · University of Toronto · University of Alberta
 
 ## Our Commitment to Equity & Inclusion
 

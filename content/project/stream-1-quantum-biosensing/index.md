@@ -16,7 +16,7 @@ image:
 # Stream co-leads
 authors:
   - virgilio-valente
-  - shayan-rayan
+  - steven-rayan
   - harry-ruda
   - sara-mahshid
   - stefania-impellizzeri
@@ -79,7 +79,7 @@ Partner organizations **C2MI** and **Epiloid Biotech** provide access to quantum
 ## Stream 1 Co-Leads
 
 - **Dr. Virgilio Valente** (TMU) — CMOS/MEMS integrated sensors, wireless biosensor networks
-- **Dr. Shayan Rayan** (USask) — Quantum nanotechnology, nanopore integration
+- **Dr. Steven Rayan** (USask) — Quantum nanotechnology, nanopore integration
 - **Dr. Harry Ruda** (UofT) — Photonic sensors, semiconductor nanomaterials (Stanley Meek Chair in Advanced Nanotechnology)
 - **Dr. Sara Mahshid** (McGill) — Microfluidics, lab-on-chip biosensing
 - **Dr. Stefania Impellizzeri** (TMU) — Quantum dot synthesis, nanomaterial chemistry (Jet Ice Research Chair)

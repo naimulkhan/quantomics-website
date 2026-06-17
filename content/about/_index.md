@@ -13,7 +13,7 @@ comments: false
 
 The **NSERC CREATE in AI-Driven Quantum Sensing and Genomics for Precision Therapeutics (QuantOmics)** is designed to dismantle disciplinary and training silos in quantum sensing, genomics, and Artificial Intelligence (AI). We will train a new generation of highly qualified personnel (HQP) to be fluent in all three domains.
 
-A consortium of **six research-intensive universities** — Toronto Metropolitan University (TMU), McGill, Queen's, Université Laval, University of Saskatchewan, and University of Toronto — together with a cross-sectoral network of industry and clinical partners, will establish the nation's first integrated research and training pipeline in quantum biosensor design and AI-driven genomic medicine.
+A consortium of **seven research-intensive universities** — Toronto Metropolitan University (TMU), McGill, Queen's, Université Laval, University of Saskatchewan, University of Toronto, and University of Alberta — together with a cross-sectoral network of industry and clinical partners, will establish the nation's first integrated research and training pipeline in quantum biosensor design and AI-driven genomic medicine.
 
 ---
 

@@ -11,131 +11,80 @@ comments: false
 
 ## Who Should Apply?
 
-QuantOmics is designed to be **inclusive and accessible** to highly qualified personnel from a wide range of disciplines. We welcome applicants from:
+QuantOmics welcomes applicants from a wide range of disciplines, including Electrical and Computer Engineering, Biomedical Engineering, Physics, Computer Science, Computational Biology, Molecular Genetics, and Health Sciences (with quantitative training). No prior knowledge across all three domains is required — the program builds cross-disciplinary literacy from the ground up.
 
-- Electrical and Computer Engineering
-- Biomedical Engineering
-- Physics and Applied Physics
-- Computer Science and Data Science
-- Computational Biology and Bioinformatics
-- Molecular Genetics and Genomic Medicine
-- Health Sciences (where quantitative training is present)
-
-**No prior knowledge** across all three domains (quantum sensing, genomics, AI) is required. The program is specifically designed to build cross-disciplinary literacy from the ground up.
-
-> **Already working with a QuantOmics faculty member?** Students and postdoctoral fellows who are currently supervised by — or beginning a position with — a [Co-Applicant or Collaborator](../people/) are eligible and encouraged to apply to the program, provided their research aligns with one or more of the three QuantOmics research streams. Contact your supervisor or the [program coordinator](../#contact) to initiate a nomination.
+> **Already working with a QuantOmics faculty member?** Students and postdoctoral fellows supervised by a [Co-Applicant or Collaborator](../people/) are eligible and encouraged to apply, provided their research aligns with one or more QuantOmics research streams. Contact your supervisor to initiate a nomination.
 
 ---
 
 ## Training Levels
 
-QuantOmics trains HQP at four levels:
-
-| Level | Positions (over 6 years) | Description |
-|-------|------------------------|-------------|
-| **Undergraduate** | 36 | Paid summer research assistantships, providing early exposure and creating a pipeline into graduate programs |
-| **Master's (MSc)** | 36 | Full graduate training with mandatory bootcamp, mobility placement, and mentorship trio |
-| **Doctoral (PhD)** | 15 | Advanced interdisciplinary research across all three streams; all five courses mandatory |
-| **Postdoctoral (PDF)** | 6 | Advanced research with leadership responsibilities; co-supervise junior trainees and lead technical workshops |
+| Level | Positions (over 6 years) | Duration of Support |
+|-------|--------------------------|---------------------|
+| **Undergraduate** | 36 | 1 summer term |
+| **Master's (MSc)** | 36 | Up to 2 years |
+| **Doctoral (PhD)** | 15 | Up to 4 years |
+| **Postdoctoral Fellow (PDF)** | 6 | Up to 2 years (renewable annually) |
 
 ---
 
-## The Application Process
+## Funding
 
-Applications are accepted on a **rolling basis** aligned with each partner university's graduate admissions cycle. The general process is:
+QuantOmics trainees receive a CREATE supplement from NSERC on top of their institutional stipend and supervisor funding:
 
-1. **Identify a Supervisor** — Review the [research team](../people/) and reach out to a faculty member whose research aligns with your interests and background. Admission to QuantOmics requires a confirmed QuantOmics supervisor.
+| Level | CREATE Supplement | Mobility Top-Up |
+|-------|-------------------|-----------------|
+| **Undergraduate** | $3,000 / summer | — |
+| **Master's (MSc)** | $7,000 / year | +$1,000 |
+| **Doctoral (PhD)** | $9,000 / year | +$2,000 |
+| **Postdoctoral Fellow** | $35,000 / year | — |
 
-2. **Apply to the University** — Apply to the graduate program at your supervisor's home institution following that university's standard admissions process.
+The supplement also covers travel to symposiums and IEEE workshops, mobility placement costs, and program course fees. Partner universities provide additional cash contributions on top of the NSERC supplement — discuss the full package with your prospective supervisor.
 
-3. **Indicate QuantOmics Interest** — In your application, clearly indicate your interest in the QuantOmics CREATE program and your confirmed supervisor.
+---
 
-4. **Nomination to the Program** — Once admitted by the university, your supervisor nominates you to the QuantOmics Steering Committee for formal program enrollment.
+## How to Apply
 
-5. **Program Onboarding** — Accepted trainees are onboarded through an orientation session and gain access to the QuantOmics collaboration portal, course materials, and mentorship trio assignment.
+Applications are accepted on a **rolling basis** aligned with each partner university's admissions cycle:
+
+1. **Identify a Supervisor** — Browse the [research team](../people/) and contact a faculty member whose work aligns with your background. A confirmed supervisor is required for admission.
+2. **Apply to the University** — Apply through the standard graduate admissions process at your supervisor's institution.
+3. **Indicate QuantOmics Interest** — State your interest in the QuantOmics CREATE program and your confirmed supervisor in your application.
+4. **Nomination** — Once admitted, your supervisor nominates you to the Steering Committee for formal program enrollment.
+5. **Onboarding** — Accepted trainees complete an orientation and gain access to the collaboration portal, courses, and mentorship trio.
+
+Applications can be made through any of the seven partner institutions: **Toronto Metropolitan University · McGill University · Queen's University · Université Laval · University of Saskatchewan · University of Toronto · University of Alberta**
+
+---
+
+## Express Your Interest
+
+Not ready to apply yet, or want to be notified when positions open? Fill out the form below and we will be in touch.
+
+<!-- PASTE GOOGLE FORM EMBED CODE BELOW THIS LINE -->
+
+<!-- END GOOGLE FORM EMBED -->
 
 ---
 
 ## Equity, Diversity & Inclusion
 
-QuantOmics is deeply committed to recruiting a diverse cohort. We actively work to dismantle two structural barriers:
+QuantOmics is committed to recruiting a diverse cohort. We actively address access barriers and retention bottlenecks through anonymized screening, unconscious bias training for all Steering Committee members, and targeted outreach through the Black Professionals in Tech Network, Native Women's Association of Canada, Society for Canadian Women in Science & Technology, and Indigenous Student Services offices.
 
-1. **Access-to-field barriers** — lack of early exposure and culturally relevant mentorship
-2. **Retention bottlenecks** — isolation, unconscious bias, and inequitable practices
-
-**Our recruitment practices include:**
-- Job ads and scholarship calls using unbiased language, circulated through targeted networks including the Black Professionals in Tech Network, Native Women's Association of Canada, Society for Canadian Women in Science & Technology, Women in Genomics, and Indigenous Student Services offices
-- Multi-stage, anonymized screening processes to ensure fairness
-- All Steering Committee members complete unconscious bias training before participating in applicant review
-- Use of TMU's Dimensions Charter bias-interruption tools and applicant-tracking dashboards
-
-**Target EDI outcomes:**
-- At least 40% of graduate trainees identifying as women or non-binary
-- Active recruitment of trainees from First Nations, Métis, and Inuit communities
-- At least 30% from groups underrepresented in STEM
-
----
-
-## Funding & Support
-
-QuantOmics trainees receive a **QuantOmics CREATE supplement** from NSERC on top of their standard institutional stipend or supervisor funding. Annual supplement amounts per trainee are:
-
-| Level | CREATE Supplement | Mobility Top-Up | Duration |
-|-------|-------------------|-----------------|----------|
-| **Undergraduate** | $3,000 / summer | — | 1 summer term |
-| **Master's (MSc)** | $7,000 / year | +$1,000 | Up to 2 years |
-| **Doctoral (PhD)** | $9,000 / year | +$2,000 | Up to 4 years |
-| **Postdoctoral Fellow** | $35,000 / year | — | Up to 2 years (renewable) |
-
-> **Note:** The CREATE supplement is in addition to your institutional stipend and supervisor funding package. Each participating university provides further cash contributions to top up graduate trainee stipends. Total annual compensation for graduate trainees varies by institution and supervisor — discuss details with your prospective supervisor.
-
-The supplement also covers:
-
-- Travel to QuantOmics symposiums (Years 3 and 6) and co-located IEEE workshops (Years 2, 4, 5)
-- Mobility placement costs (the top-up above covers relocation for internships and exchanges)
-- Program-specific course costs and professional development events
-
----
-
-## Partner Universities
-
-Applications can be made through any of the six partner institutions. Each institution has its own graduate admissions requirements:
-
-| University | Institutional Lead | Key Research Focus |
-|------------|-------------------|-------------------|
-| **Toronto Metropolitan University** | Dr. Naimul Khan | AI/ML, biosensors, ECE |
-| **McGill University** | Dr. Sara Mahshid | Microfluidics, lab-on-chip |
-| **Queen's University** | Dr. Amber Simpson | Biomedical computing, AI |
-| **Université Laval** | Dr. Jacques Corbeil | Genomics, bioinformatics, multi-omics |
-| **University of Saskatchewan** | Dr. Shayan Rayan | Computational biology, genomics |
-| **University of Toronto** | Dr. Brett Trost | Molecular genetics, SickKids |
+**Target EDI outcomes:** at least 40% of graduate trainees identifying as women or non-binary; active recruitment from First Nations, Métis, and Inuit communities; at least 30% from groups underrepresented in STEM.
 
 ---
 
 ## Frequently Asked Questions
 
 **Can I apply if I'm already enrolled in a graduate program?**
-Yes. Students already enrolled at a partner university can be nominated to the QuantOmics program by a participating faculty member at any point. Contact the program coordinator for details.
+Yes — students already enrolled at a partner university can be nominated at any point by a participating faculty member.
 
 **Is there a separate QuantOmics application form?**
-No. Admission is through the standard graduate admissions process at your chosen partner university, with supervisor nomination to the QuantOmics program afterward.
+No. Admission is through the standard graduate admissions process at your chosen institution, followed by supervisor nomination.
 
 **Can international students apply?**
-Yes. International students are eligible and are encouraged to apply through the standard graduate admissions process at any partner institution.
+Yes. International students are eligible and encouraged to apply through any partner institution.
 
 **What if I want to change streams after joining?**
-QuantOmics is designed for cross-stream mobility. Trainees can, in consultation with their mentorship trio, take courses and pursue research projects in complementary streams. This is actively encouraged.
-
-**When are symposiums held?**
-Major QuantOmics symposiums are held in Years 3 and 6 of the program. Co-located IEEE conference workshops are held in Years 2, 4, and 5.
-
----
-
-## Contact & More Information
-
-For questions about the program, admissions, or partnership opportunities:
-
-📧 **Email:** [n77khan@torontomu.ca](mailto:n77khan@torontomu.ca)
-📍 **Address:** Department of Electrical, Computer, and Biomedical Engineering, Toronto Metropolitan University, 350 Victoria Street, Toronto, ON M5B 2K3
-
-We also welcome inquiries from prospective industry partners interested in hosting QuantOmics interns or providing research collaboration.
+Cross-stream mobility is actively encouraged. Trainees can take courses and pursue projects in complementary streams in consultation with their mentorship trio.

@@ -2,7 +2,7 @@
 title: "QuantOmics Receives NSERC CREATE Funding to Train Canada's Quantum-Biomedical Leaders"
 subtitle: "Canada's first integrated training program at the intersection of quantum sensing, genomics, and AI"
 date: 2025-06-01T09:00:00Z
-summary: "The NSERC CREATE in AI-Driven Quantum Sensing and Genomics for Precision Therapeutics (QuantOmics) has been awarded funding to train 93 highly qualified personnel across six partner universities."
+summary: "The NSERC CREATE in AI-Driven Quantum Sensing and Genomics for Precision Therapeutics (QuantOmics) has been awarded funding to train 93 highly qualified personnel across seven partner universities."
 featured: true
 tags:
   - Announcement
@@ -22,7 +22,7 @@ We are thrilled to announce that the **NSERC CREATE in AI-Driven Quantum Sensing
 
 ## What is QuantOmics?
 
-QuantOmics is designed to dismantle disciplinary and training silos that currently prevent Canada from fully realizing the potential of quantum-enabled precision medicine. Our program brings together a consortium of **six research-intensive universities** — Toronto Metropolitan University, McGill, Queen's, Université Laval, University of Saskatchewan, and University of Toronto — along with a cross-sectoral network of **eight industry and clinical partners**.
+QuantOmics is designed to dismantle disciplinary and training silos that currently prevent Canada from fully realizing the potential of quantum-enabled precision medicine. Our program brings together a consortium of **seven research-intensive universities** — Toronto Metropolitan University, McGill, Queen's, Université Laval, University of Saskatchewan, University of Toronto, and University of Alberta — along with a cross-sectoral network of **eight industry and clinical partners**.
 
 Over six years, QuantOmics will train **93 highly qualified personnel (HQP)**, including 36 undergraduates, 36 Master's students, 15 PhD candidates, and 6 Postdoctoral Fellows, producing 170 one-year training units.
 
@@ -51,7 +51,7 @@ The program includes five specialized courses (three on-demand, one immersive bo
 
 The QuantOmics program will begin accepting applications for its inaugural cohort. Prospective trainees at all levels — undergraduate, Master's, PhD, and Postdoctoral — are encouraged to review the [program details](../../training/) and [reach out to faculty](../../people/) whose research aligns with their interests.
 
-Applications are made through the standard graduate admissions process at any of the six partner universities, with supervisor nomination to the QuantOmics program.
+Applications are made through the standard graduate admissions process at any of the seven partner universities, with supervisor nomination to the QuantOmics program.
 
 [Learn more about how to apply →](../../apply/)
 
