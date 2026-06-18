@@ -5,6 +5,23 @@ type: landing
 sections:
 
   ##############################################
+  ## LOGO
+  ##############################################
+  - block: markdown
+    content:
+      title: ''
+      text: |-
+        <div style="text-align:center; padding: 3rem 0 1rem;">
+          <img src="/media/quantomics-logo.png" alt="QuantOmics Logo" style="max-width:420px; width:90%; height:auto;">
+        </div>
+    design:
+      columns: '1'
+      background:
+        gradient_end: '#1565C0'
+        gradient_start: '#0D3B8C'
+        text_color_light: true
+
+  ##############################################
   ## HERO BANNER
   ##############################################
   - block: hero
