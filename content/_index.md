@@ -29,8 +29,6 @@ sections:
     content:
       title: |
         QuantOmics
-      image:
-        filename: hero-bg.jpg
       text: |-
         **NSERC CREATE** in AI-Driven Quantum Sensing and Genomics for Precision Therapeutics
 
