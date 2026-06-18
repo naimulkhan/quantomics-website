@@ -50,6 +50,7 @@ sections:
         gradient_end: '#1565C0'
         gradient_start: '#0D3B8C'
         text_color_light: true
+      css_class: text-center
 
   ##############################################
   ## ABOUT STRIP
