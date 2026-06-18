@@ -11,8 +11,8 @@ sections:
     content:
       title: ''
       text: |-
-        <div style="text-align:center; padding: 3rem 0 1rem;">
-          <img src="/quantomics-logo.png" alt="QuantOmics Logo" style="max-width:420px; width:90%; height:auto;">
+        <div style="display:flex; justify-content:center; align-items:center; padding: 3rem 0 1rem; width:100%;">
+          <img src="/quantomics-logo.png" alt="QuantOmics Logo" style="max-width:420px; width:90%; height:auto; display:block; margin:0 auto;">
         </div>
     design:
       columns: '1'
