@@ -12,7 +12,7 @@ sections:
       title: ''
       text: |-
         <div style="text-align:center; padding: 3rem 0 1rem;">
-          <img src="/media/quantomics-logo.png" alt="QuantOmics Logo" style="max-width:420px; width:90%; height:auto;">
+          <img src="/quantomics-logo.png" alt="QuantOmics Logo" style="max-width:420px; width:90%; height:auto;">
         </div>
     design:
       columns: '1'
