@@ -5,23 +5,6 @@ type: landing
 sections:
 
   ##############################################
-  ## LOGO
-  ##############################################
-  - block: markdown
-    content:
-      title: ''
-      text: |-
-        <div style="display:flex; justify-content:center; align-items:center; padding: 3rem 0 1rem; width:100%;">
-          <img src="/quantomics-logo.png" alt="QuantOmics Logo" style="max-width:420px; width:90%; height:auto; display:block; margin:0 auto;">
-        </div>
-    design:
-      columns: '1'
-      background:
-        gradient_end: '#1565C0'
-        gradient_start: '#0D3B8C'
-        text_color_light: true
-
-  ##############################################
   ## HERO BANNER
   ##############################################
   - block: hero
@@ -29,6 +12,8 @@ sections:
     content:
       title: |
         QuantOmics
+      image:
+        filename: quantomics-logo.png
       text: |-
         **NSERC CREATE** in AI-Driven Quantum Sensing and Genomics for Precision Therapeutics
 
