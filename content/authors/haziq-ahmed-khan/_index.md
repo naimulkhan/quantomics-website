@@ -1,6 +1,6 @@
 ---
 title: Haziq Ahmed Khan
-slug: Haziq Ahmed Khan
+slug: haziq-ahmed-khan
 user_groups:
   - Undergraduate Researchers
 organizations:
