@@ -1,6 +1,6 @@
 ---
 title: Kianoosh Naghibzadeh
-slug: kianoosh-naghibzadeh
+slug: Kianoosh Naghibzadeh
 user_groups:
   - PhD Candidates
 role: "Broad project title: Multimodal Machine Learning for Multi-Omics
