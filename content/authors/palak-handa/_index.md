@@ -1,14 +1,18 @@
 ---
 title: Palak Handa
-slug: palak-handa
+role: Fellow and Program Coordinator QuantOmics
+bio: Fellow and Program Coordinator QuantOmics
+organizations: []
 user_groups:
   - Postdoctoral Fellows
-organizations:
-  - name: Toronto Metropolitan University
+superuser: false
+slug: palak-handa
 social:
   - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/phanda1997
-superuser: false
 highlight_name: false
 ---
+**Project title:** 
+
+**Brief project description:**
