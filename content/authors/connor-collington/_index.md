@@ -2,8 +2,7 @@
 title: Connor Collington
 role: Master's student at Toronto Metropolitan University
 bio: Master's student at Toronto Metropolitan University
-organizations:
-  - name: Toronto Metropolitan University
+organizations: []
 user_groups:
   - Master's Students
 superuser: false
