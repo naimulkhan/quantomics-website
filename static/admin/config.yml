@@ -253,8 +253,9 @@ collections:
         name: avatar_filename
         widget: image
         required: false
-        media_dir: ''
-        hint: "Upload a headshot. Recommended: square, at least 400×400 px."
+        media_folder: ''
+        public_folder: ''
+        hint: "Upload a headshot photo. Any filename works — square, at least 400×400 px recommended."
       - label: "Short Bio"
         name: bio
         widget: text
@@ -273,12 +274,13 @@ collections:
           - label: "Icon"
             name: icon
             widget: string
-            hint: "FontAwesome icon — e.g. envelope, linkedin, twitter, globe"
+            hint: "FontAwesome icon — e.g. linkedin, envelope, globe, twitter, github"
           - label: "Icon Pack"
             name: icon_pack
             widget: select
-            options: [fas, fab, far]
-            default: fas
+            options: [fab, fas, far]
+            default: fab
+            hint: "Use 'fab' for LinkedIn, GitHub, Twitter/X. Use 'fas' for envelope, globe."
           - label: "Link"
             name: link
             widget: string
@@ -312,11 +314,13 @@ collections:
         name: role
         widget: string
         hint: "e.g. Principal Investigator, Associate Professor"
-      - label: "Photo Filename"
+      - label: "Photo"
         name: avatar_filename
-        widget: string
-        default: avatar.jpg
-        hint: "Upload photo to the author's folder and enter the filename (e.g. avatar.jpg)"
+        widget: image
+        required: false
+        media_folder: ''
+        public_folder: ''
+        hint: "Upload a headshot photo. Any filename works — square, at least 400×400 px recommended."
       - label: "Short Bio"
         name: bio
         widget: text
