@@ -5,9 +5,8 @@ user_groups:
   - PhD Candidates
 organizations:
   - name: Toronto Metropolitan University
-avatar_filename: headshot_photo.jpg
 social:
-  - icon_pack: fas
+  - icon_pack: fab
     icon: linkedin
     link: https://www.linkedin.com/in/yasharkelasi/
 superuser: false

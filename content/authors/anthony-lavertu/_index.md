@@ -5,9 +5,8 @@ user_groups:
   - Master's Students
 organizations:
   - name: Université Laval
-avatar_filename: img_1637.png
 social:
-  - icon_pack: fas
+  - icon_pack: fab
     icon: github
     link: https://anthol42.github.io
 superuser: false

@@ -6,7 +6,7 @@ user_groups:
 organizations:
   - name: Toronto Metropolitan University
 social:
-  - icon_pack: fas
+  - icon_pack: fab
     link: https://www.linkedin.com/in/romina-arabi/
     icon: linkedin
 superuser: false

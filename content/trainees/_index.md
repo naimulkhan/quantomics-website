@@ -31,17 +31,17 @@ sections:
     design:
       show_interests: true
       show_role: true
-      show_social: false
+      show_social: true
 
   - block: people
     content:
-      title: "Master\u2019s Students"
+      title: "Master's Students"
       user_groups:
-        - "Master\u2019s Students"
+        - "Master's Students"
     design:
       show_interests: true
       show_role: true
-      show_social: false
+      show_social: true
 
   - block: people
     content:
@@ -49,7 +49,7 @@ sections:
       user_groups:
         - Undergraduate Researchers
     design:
-      show_interests: false
+      show_interests: true
       show_role: true
-      show_social: false
+      show_social: true
 ---
