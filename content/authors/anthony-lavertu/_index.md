@@ -5,8 +5,7 @@ user_groups:
   - Master's Students
 organizations:
   - name: Université Laval
-bio: "Broad project title: Learning by Testing: A Lab-in-the-Loop Strategy for
-  Antimicrobial Peptide Discovery"
+bio: ""
 social:
   - icon_pack: fab
     icon: github
