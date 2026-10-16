@@ -1,6 +1,6 @@
 ---
 title: Anthony Lavertu
-role: Master's student at Université Laval
+role: Master's student
 bio: Master's student at Université Laval
 organizations:
   - name: Université Laval
