@@ -31,6 +31,7 @@ QuantOmics is supported by a cross-sectoral network of eight partner organizatio
 ### C2MI
 
 **Centre de Collaboration MiQro Innovation**
+
 A leading Canadian microelectronics and microsystems hub providing QuantOmics trainees with access to advanced quantum sensing fabrication infrastructure not readily available at Canadian universities. C2MI supports Stream 1 research and hosts industrial internships.
 
 - - -
@@ -38,6 +39,7 @@ A leading Canadian microelectronics and microsystems hub providing QuantOmics tr
 ### Epiloid Biotech
 
 **Mark Aquilino, CEO**
+
 A biotech company specializing in organoid platforms that provides QuantOmics trainees with access to state-of-the-art organoid setups for validating quantum biosensors in physiologically relevant 3D tissue models. Epiloid CEO Mark Aquilino also serves on the QuantOmics Program Committee.
 
 - - -
@@ -57,6 +59,7 @@ A not-for-profit organization that acts as a catalyst for genomics research and 
 ### Klick Health
 
 **Yan Fossat, SVP Digital Health R&D**
+
 One of the world's largest independent health marketing and commercialization agencies, with deep expertise in digital health R&D. Klick Health provides industry mentorship, internship opportunities, and commercial translation insights for QuantOmics trainees. Yan Fossat serves on the Program Committee.
 
 - - -
@@ -64,6 +67,7 @@ One of the world's largest independent health marketing and commercialization ag
 ### i-RNA
 
 **Subrata Chakrabarti, Co-founder & CSO, i-RNA**
+
 i-RNA is developing lncRNA-targeting siRNA therapeutics for retinal disease, with a lead program in diabetic retinopathy designed for non-invasive ocular delivery. It provides research mentorship and internship opportunities aligned with Stream 2 and Stream 3 research. Subrata Chakrabarti serves on the Program Committee.
 
 - - -
@@ -71,6 +75,7 @@ i-RNA is developing lncRNA-targeting siRNA therapeutics for retinal disease, wit
 ### NetraMark
 
 **Joseph Geraci, Founder, CSO, & CTO, NetraMark**
+
 NetraMark develops explainable machine-learning solutions to help pharmaceutical and biotechnology companies identify patient subgroups, optimize clinical trial design, and improve drug development outcomes. Joseph and his team will provide mentorship and internship opportunities aligned with Stream 2 and Stream 3 research. 
 
 - - -
@@ -78,6 +83,7 @@ NetraMark develops explainable machine-learning solutions to help pharmaceutical
 ### Novavax
 
 **Bruce Seet, Head of Medical Affairs**
+
 A global biotechnology company focused on developing and commercializing recombinant nanoparticle vaccines. Novavax provides direct mentorship for trainees working on vaccine design challenges and hosts internships in vaccine development. 
 
 - - -
