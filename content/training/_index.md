@@ -1,8 +1,8 @@
 ---
 title: Training Program
-summary: The QuantOmics interdisciplinary training program — courses, seminars, experiential learning, and professional development.
+summary: The QuantOmics interdisciplinary training program — courses, seminars,
+  experiential learning, and professional development.
 date: 2025-01-01
-
 reading_time: false
 share: false
 profile: false
@@ -161,7 +161,7 @@ All MSc and PhD trainees complete a mandatory mobility placement:
 
 **Option A — Inter-Lab Academic Exchange:** Spend time in the lab of a QuantOmics co-applicant at a different discipline and partner university, placed in a different stream of the research pipeline.
 
-**Option B — Industrial R&D Internship:** Undertake an internship at one of our supporting partner organizations (C2MI, Epiloid Biotech, Terry Fox Research Institute, Ontario Genomics, Klick Health, Alimentiv, Novavax, and others).
+**Option B — Industrial R&D Internship:** Undertake an internship at one of our supporting partner organizations (C2MI, Epiloid Biotech, Terry Fox Research Institute, Ontario Genomics, Klick Health, NetraMark, i-RNA, Novavax, and others).
 
 ---
 
