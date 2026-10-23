@@ -56,6 +56,12 @@ A not-for-profit organization that acts as a catalyst for genomics research and 
 
 - - -
 
+### HOP Tech
+
+HOP Tech transforms physiological signals such as heart rate, temperature, movement, and voice into AI-powered digital biomarkers to support earlier disease detection, faster treatment, and personalised healthcare.
+
+- - -
+
 ### Klick Health
 
 **Yan Fossat, SVP Digital Health R&D**
@@ -77,6 +83,14 @@ i-RNA is developing lncRNA-targeting siRNA therapeutics for retinal disease, wit
 **Joseph Geraci, Founder, CSO, & CTO, NetraMark**
 
 NetraMark develops explainable machine-learning solutions to help pharmaceutical and biotechnology companies identify patient subgroups, optimize clinical trial design, and improve drug development outcomes. Joseph and his team will provide mentorship and internship opportunities aligned with Stream 2 and Stream 3 research. 
+
+- - -
+
+### Re:Pair Genomics
+
+**Shiron Lee, Co-Founder, CEO, Re:Pair Genomics**
+
+Re:Pair Genomics is on a mission to making tissue-targeting easier. Their machine-learning algorithms design compact, synthetic promoters and enhancers for precise tissue- and cell-type-specific gene expression, accelerating gene therapy development by reducing design time from months to hours.
 
 - - -
 
