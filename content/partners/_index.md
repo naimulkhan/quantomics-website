@@ -26,7 +26,7 @@ QuantOmics unites researchers from seven of Canada's leading research-intensive 
 
 ## Industry & Clinical Partners
 
-QuantOmics is supported by a cross-sectoral network of eight partner organizations that provide experiential training, research infrastructure, internship placements, and industry mentorship:
+QuantOmics is supported by a cross-sectoral network of many partner organizations that provide experiential training, research infrastructure, internship placements, and industry mentorship:
 
 ### C2MI
 
